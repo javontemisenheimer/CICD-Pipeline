@@ -19,3 +19,6 @@ builds, and deploys a Flask web application.
 Every push to main automatically triggers the pipeline.
 The deploy job only runs after test and build both pass.
 This ensures broken code never reaches production.
+
+## Pipeline Results
+![Pipeline Success](pipeline-success.png)
